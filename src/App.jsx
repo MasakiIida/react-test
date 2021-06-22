@@ -26,7 +26,7 @@ const App = () => {
 
   return (
     <>
-      <h1 style={{ color: "red" }}>TODOアプリ</h1>
+      <h1 style={{ color: "red" }}>React</h1>
       <ColorfulMessage color="blue">ううううう</ColorfulMessage>
       <ColorfulMessage color="pink">えええええ</ColorfulMessage>
       <button onClick={onClickCountUp}>カウントアップ!</button>
